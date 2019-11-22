@@ -8,7 +8,7 @@ public class Max_of_subarray {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the size of array:");
         int n=sc.nextInt();
-        System.out.println("");
+        System.out.println("Enter the Value of K");
         int k=sc.nextInt();
         System.out.println("Enter the elements");
         int a[]=new int[n];
